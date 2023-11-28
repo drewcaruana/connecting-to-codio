@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 **Discover how to manage processes, from backgrounding to stopping long running tasks.**
 
 
 - The public GitHub repository for this unit can be found at [https://github.com/codio-content/Linux-Process_Management](https://github.com/codio-content/Linux-Process_Management).
+=======
+**An overview of Linux users, user groups and user and file permissions.**
+
+
+- The public GitHub repository for this unit can be found at [https://github.com/codio-content/Linux-Users_and_Permissions](https://github.com/codio-content/Linux-Users_and_Permissions).
+>>>>>>> efd3cbac117f04602c79a5b6022229ae3b3d13f2
 
 - For more information on other units in the Linux Command Line Interface course go to [Course-:-Linux-CLI](https://github.com/codio-content/Information/wiki/Course-:-Linux-CLI)
 
